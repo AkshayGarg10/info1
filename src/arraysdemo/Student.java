@@ -22,9 +22,10 @@ public class Student {
         this.address = address;
     }
 
-    public Student(int sId, String sname) {
+    public Student(int sId, String sname, String address) {
         this.sId = sId;
         this.sname = sname;
+        this.address = address;
     }
     
     
